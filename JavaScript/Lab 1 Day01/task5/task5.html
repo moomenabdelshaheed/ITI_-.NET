@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Title</title>
+    </head>
+    <body>
+    
+    
+    <script>
+
+    var namevalid = /^[a-zA-Z]+$/; 
+    var phnumvalid = /^\d{8}$/;
+    var mobnumvalid = /^(010|011|012)\d{8}$/;
+    var mailvalid = /^[a-zA-Z]{3}@\d{3}\.com$/;
+    var colorvalid = /^(red|blue|green)$/;
+
+        do {
+        var name1 =prompt("Enter your Name" );
+        } while (!namevalid.test(name1));
+        
+
+            do {
+        var phnum = prompt("Enter your Phone Number");
+        } while (!phnumvalid.test(phnum));
+        
+        do {
+            var mobnum = prompt("Enter your Mobile Number");
+        } while (!mobnumvalid.test(mobnum));
+        
+        
+        do {
+            var email = prompt("Enter your Email");
+        } while (!mailvalid.test(email));
+        do {
+        color = prompt("Enter prefered color blue ,red or green ")
+} while (!colorvalid.test(color) );
+document.writeln("<h1>Entering user info</h1> <hr>")
+document.writeln(`<span style="color: ${color}; font-size: 20px;">Welcome dear guest </span>`);
+document.writeln(`<span style="font-size: 20px;">${name1}</span><br>`);   
+document.writeln(`<span style="color: ${color}; font-size: 20px;">your Telephone Number is : </span>`);
+document.writeln(`<span style="font-size: 20px;">${phnum}</span><br>`);  
+document.writeln(`<span style="color: ${color}; font-size: 20px;">your Mobile Number is : </span>`);
+document.writeln(`<span style="font-size: 20px;">${mobnum}</span><br>`);   
+document.writeln(`<span style="color: ${color}; font-size: 20px;">your Email is : </span>`);
+document.writeln(`<span style="font-size: 20px;">${email}</span><br>`);   
+ 
+        </script>
+    
+    </body>
+</html>

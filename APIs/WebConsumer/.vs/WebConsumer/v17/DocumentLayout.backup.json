@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\WebConsumer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8A7463-CF69-4C9C-A34A-F5C490ADC3C6}|WebConsumer\\WebConsumer.csproj|c:\\users\\user\\source\\repos\\webconsumer\\webconsumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD8A7463-CF69-4C9C-A34A-F5C490ADC3C6}|WebConsumer\\WebConsumer.csproj|solutionrelative:webconsumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8A7463-CF69-4C9C-A34A-F5C490ADC3C6}|WebConsumer\\WebConsumer.csproj|c:\\users\\user\\source\\repos\\webconsumer\\webconsumer\\wwwroot\\homepage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD8A7463-CF69-4C9C-A34A-F5C490ADC3C6}|WebConsumer\\WebConsumer.csproj|solutionrelative:webconsumer\\wwwroot\\homepage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8A7463-CF69-4C9C-A34A-F5C490ADC3C6}|WebConsumer\\WebConsumer.csproj|c:\\users\\user\\source\\repos\\webconsumer\\webconsumer\\wwwroot\\jquery\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FD8A7463-CF69-4C9C-A34A-F5C490ADC3C6}|WebConsumer\\WebConsumer.csproj|solutionrelative:webconsumer\\wwwroot\\jquery\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\Program.cs",
+              "RelativeDocumentMoniker": "WebConsumer\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\Program.cs",
+              "RelativeToolTip": "WebConsumer\\Program.cs",
+              "ViewState": "AgIAAAIAAADQ2IqgPWUmwAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T08:35:00.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "jquery.js",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\jquery\\jquery.js",
+              "RelativeDocumentMoniker": "WebConsumer\\wwwroot\\jquery\\jquery.js",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\jquery\\jquery.js",
+              "RelativeToolTip": "WebConsumer\\wwwroot\\jquery\\jquery.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-03T08:03:30.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "homepage.html",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\homepage.html",
+              "RelativeDocumentMoniker": "WebConsumer\\wwwroot\\homepage.html",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\homepage.html",
+              "RelativeToolTip": "WebConsumer\\wwwroot\\homepage.html",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-03T08:02:50.348Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

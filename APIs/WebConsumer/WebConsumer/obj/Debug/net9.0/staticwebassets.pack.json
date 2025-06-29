@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\homepage.html",
+      "PackagePath": "staticwebassets\\homepage.html"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.WebConsumer.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.WebConsumer.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.WebConsumer.props",
+      "PackagePath": "build\\WebConsumer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.WebConsumer.props",
+      "PackagePath": "buildMultiTargeting\\WebConsumer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.WebConsumer.props",
+      "PackagePath": "buildTransitive\\WebConsumer.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

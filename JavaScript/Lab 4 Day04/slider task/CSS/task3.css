@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #f0f0f0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.slider-container {
+    text-align: center;
+}
+
+#slider-image {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 15px;
+}
+
+.slider-controls button {
+    margin: 10px;
+    padding: 10px 20px;
+    border: none;
+    background-color: #db6934;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.slider-controls button:hover {
+    background-color: #2980b9;
+}

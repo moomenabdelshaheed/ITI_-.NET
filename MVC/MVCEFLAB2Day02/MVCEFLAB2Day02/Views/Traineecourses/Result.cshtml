@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewData["Title"] = "Result";
+}
+
+<h1>Result</h1>
+
+<table class="table">
+    <thead class="thead-dark">
+        <tr>
+            <th scope="col">Traineee</th>
+            <th scope="col">CourseName</th>
+            <th scope="col">Degree</th>
+            <th scope="col">Statues</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var course in Model)
+        {
+            <tr >
+                <th scope="row">@course.TraineeName</th>
+                    <td >@course.CrsName</td>
+                    <td class="text-@course.Color">@course.Degree</td>
+                    <td class="text-@course.Color">@course.Status</td>
+            </tr>
+        }
+
+    </tbody>
+</table>

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Is Diveded Or Not ? by Moomen</title>
+    </head>
+    <body>
+    
+      <script>
+/*var name = prompt("Enter your name");
+for (var i=1;i<7;i++){
+document.writeln(`<h${i}>${name}</h${i}>`);
+}*/
+while(true){
+var number = Number(prompt("Enter The Number Here"));
+if(isNaN(number)){
+    
+    alert("please Enter a Valid Number");
+    continue;
+}
+    if(number%5==0&&number%3==0){
+        alert("FizzBuzz");
+    }else if (number%3==0){
+        alert("Fizz");
+        
+    }else if(number%5==0){
+        alert("Buzz");}
+else if (!(number%5==0&&number%3==0&&number%2==0)){
+    alert("None");}
+    
+     
+}
+        
+
+        
+
+
+
+    
+</script>
+    
+    </body>
+</html>

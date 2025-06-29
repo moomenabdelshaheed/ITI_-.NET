@@ -1,0 +1,179 @@
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\appsettings.json
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\efpt.config.json
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\WebApiDay02.staticwebassets.endpoints.json
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\WebApiDay02.exe
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\WebApiDay02.deps.json
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\WebApiDay02.runtimeconfig.json
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\WebApiDay02.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\WebApiDay02.pdb
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\AutoMapper.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Castle.Core.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\obj\Debug\net9.0\WebApiDay02.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\obj\Debug\net9.0\WebApiDay02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\obj\Debug\net9.0\WebApiDay02.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\obj\Debug\net9.0\WebApiDay02.AssemblyInfo.cs
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\obj\Debug\net9.0\WebApiDay02.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\obj\Debug\net9.0\WebApiDay02.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\obj\Debug\net9.0\WebApiDay02.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\obj\Debug\net9.0\scopedcss\bundle\WebApiDay02.styles.css
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\obj\Debug\net9.0\staticwebassets\msbuild.WebApiDay02.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\obj\Debug\net9.0\staticwebassets\msbuild.WebApiDay02.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\obj\Debug\net9.0\staticwebassets\msbuild.build.WebApiDay02.props
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.WebApiDay02.props
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.WebApiDay02.props
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\obj\Debug\net9.0\WebApiDa.0E068C5D.Up2Date
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\obj\Debug\net9.0\WebApiDay02.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\obj\Debug\net9.0\refint\WebApiDay02.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\obj\Debug\net9.0\WebApiDay02.pdb
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\obj\Debug\net9.0\WebApiDay02.genruntimeconfig.cache
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\obj\Debug\net9.0\ref\WebApiDay02.dll
+C:\Users\User\source\repos\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\appsettings.Development.json
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\appsettings.json
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\efpt.config.json
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\WebApiDay02.staticwebassets.endpoints.json
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\WebApiDay02.exe
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\WebApiDay02.deps.json
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\WebApiDay02.runtimeconfig.json
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\WebApiDay02.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\WebApiDay02.pdb
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\AutoMapper.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Azure.Core.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Azure.Identity.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Castle.Core.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\System.ClientModel.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\System.Formats.Asn1.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\System.Memory.Data.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\System.Text.Json.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\obj\Debug\net9.0\WebApiDay02.csproj.AssemblyReference.cache
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\obj\Debug\net9.0\WebApiDay02.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\obj\Debug\net9.0\WebApiDay02.AssemblyInfoInputs.cache
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\obj\Debug\net9.0\WebApiDay02.AssemblyInfo.cs
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\obj\Debug\net9.0\WebApiDay02.csproj.CoreCompileInputs.cache
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\obj\Debug\net9.0\WebApiDay02.MvcApplicationPartsAssemblyInfo.cs
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\obj\Debug\net9.0\WebApiDay02.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\obj\Debug\net9.0\WebApiDay02.sourcelink.json
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\obj\Debug\net9.0\scopedcss\bundle\WebApiDay02.styles.css
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\obj\Debug\net9.0\staticwebassets.build.json
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\obj\Debug\net9.0\staticwebassets.development.json
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\obj\Debug\net9.0\staticwebassets\msbuild.WebApiDay02.Microsoft.AspNetCore.StaticWebAssets.props
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\obj\Debug\net9.0\staticwebassets\msbuild.WebApiDay02.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\obj\Debug\net9.0\staticwebassets\msbuild.build.WebApiDay02.props
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.WebApiDay02.props
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.WebApiDay02.props
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\obj\Debug\net9.0\staticwebassets.pack.json
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\obj\Debug\net9.0\WebApiDa.0E068C5D.Up2Date
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\obj\Debug\net9.0\WebApiDay02.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\obj\Debug\net9.0\refint\WebApiDay02.dll
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\obj\Debug\net9.0\WebApiDay02.pdb
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\obj\Debug\net9.0\WebApiDay02.genruntimeconfig.cache
+D:\New folder (4)\ITI_-.NET\APIs\WebApiDay02\WebApiDay02\obj\Debug\net9.0\ref\WebApiDay02.dll

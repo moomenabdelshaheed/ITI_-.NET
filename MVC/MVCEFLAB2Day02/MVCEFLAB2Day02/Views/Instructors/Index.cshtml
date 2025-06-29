@@ -1,0 +1,53 @@
+﻿@model List<Instructor>
+@{
+	ViewData["Title"] = "Index";
+}
+<h1>Index</h1>
+
+
+
+
+
+<a href="/Instructors/New" class="btn btn-danger">Add</a>
+
+
+<table class="table table-sm">
+	<thead>
+		<tr>
+			<th scope="col" class="text-light">ID</th>
+			<th scope="col" class="text-light">Name</th>
+			<th scope="col" class="text-light">Imag</th>
+			<th scope="col" class="text-light">Salary</th>
+			<th scope="col" class="text-light">Address</th>
+			<th scope="col" class="text-light">Department</th>
+			<th scope="col" class="text-light">Course</th>
+
+
+		</tr>
+	</thead>
+	<tbody>
+
+
+		@foreach (Instructor instructor in Model)
+		{
+			<tr>
+				<th scope="row" class="text-light">@instructor.Id</th>
+				<td class="text-light">@instructor.Name</td>
+				<td class="text-light"><img src="/Images/@instructor.Imag" style="height:100px;width:100px" /></td>
+				<td class="text-light">@instructor.Salary</td>
+				<td class="text-light">@instructor?.Address</td>
+				<td class="text-light">@instructor?.Department.Name</td>
+				<td class="text-light">@(instructor?.Course?.Name?? "empty")</td>
+				<td>
+					<a href="/instructors/details/@instructor.Id" class="btn btn-info">Info</a>
+				</td>
+
+
+			</tr>
+		}
+
+	</tbody>
+</table>
+
+
+

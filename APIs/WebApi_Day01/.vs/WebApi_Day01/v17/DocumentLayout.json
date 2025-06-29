@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\WebApi_Day01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD22740F-415C-489B-AD84-B49FE320B0CE}|WebApi_Day01\\WebApi_Day01.csproj|c:\\users\\user\\source\\repos\\webapi_day01\\webapi_day01\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD22740F-415C-489B-AD84-B49FE320B0CE}|WebApi_Day01\\WebApi_Day01.csproj|solutionrelative:webapi_day01\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD22740F-415C-489B-AD84-B49FE320B0CE}|WebApi_Day01\\WebApi_Day01.csproj|c:\\users\\user\\source\\repos\\webapi_day01\\webapi_day01\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD22740F-415C-489B-AD84-B49FE320B0CE}|WebApi_Day01\\WebApi_Day01.csproj|solutionrelative:webapi_day01\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD22740F-415C-489B-AD84-B49FE320B0CE}|WebApi_Day01\\WebApi_Day01.csproj|c:\\users\\user\\source\\repos\\webapi_day01\\webapi_day01\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CD22740F-415C-489B-AD84-B49FE320B0CE}|WebApi_Day01\\WebApi_Day01.csproj|solutionrelative:webapi_day01\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD22740F-415C-489B-AD84-B49FE320B0CE}|WebApi_Day01\\WebApi_Day01.csproj|c:\\users\\user\\source\\repos\\webapi_day01\\webapi_day01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CD22740F-415C-489B-AD84-B49FE320B0CE}|WebApi_Day01\\WebApi_Day01.csproj|solutionrelative:webapi_day01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD22740F-415C-489B-AD84-B49FE320B0CE}|WebApi_Day01\\WebApi_Day01.csproj|c:\\users\\user\\source\\repos\\webapi_day01\\webapi_day01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD22740F-415C-489B-AD84-B49FE320B0CE}|WebApi_Day01\\WebApi_Day01.csproj|solutionrelative:webapi_day01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD22740F-415C-489B-AD84-B49FE320B0CE}|WebApi_Day01\\WebApi_Day01.csproj|c:\\users\\user\\source\\repos\\webapi_day01\\webapi_day01\\model\\iticontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD22740F-415C-489B-AD84-B49FE320B0CE}|WebApi_Day01\\WebApi_Day01.csproj|solutionrelative:webapi_day01\\model\\iticontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD22740F-415C-489B-AD84-B49FE320B0CE}|WebApi_Day01\\WebApi_Day01.csproj|c:\\users\\user\\source\\repos\\webapi_day01\\webapi_day01\\migrations\\20250601120040_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD22740F-415C-489B-AD84-B49FE320B0CE}|WebApi_Day01\\WebApi_Day01.csproj|solutionrelative:webapi_day01\\migrations\\20250601120040_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD22740F-415C-489B-AD84-B49FE320B0CE}|WebApi_Day01\\WebApi_Day01.csproj|c:\\users\\user\\source\\repos\\webapi_day01\\webapi_day01\\webapi_day01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CD22740F-415C-489B-AD84-B49FE320B0CE}|WebApi_Day01\\WebApi_Day01.csproj|solutionrelative:webapi_day01\\webapi_day01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD22740F-415C-489B-AD84-B49FE320B0CE}|WebApi_Day01\\WebApi_Day01.csproj|c:\\users\\user\\source\\repos\\webapi_day01\\webapi_day01\\migrations\\20250601122129_insert_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD22740F-415C-489B-AD84-B49FE320B0CE}|WebApi_Day01\\WebApi_Day01.csproj|solutionrelative:webapi_day01\\migrations\\20250601122129_insert_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD22740F-415C-489B-AD84-B49FE320B0CE}|WebApi_Day01\\WebApi_Day01.csproj|c:\\users\\user\\source\\repos\\webapi_day01\\webapi_day01\\migrations\\20250601120532_allow_null.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD22740F-415C-489B-AD84-B49FE320B0CE}|WebApi_Day01\\WebApi_Day01.csproj|solutionrelative:webapi_day01\\migrations\\20250601120532_allow_null.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD22740F-415C-489B-AD84-B49FE320B0CE}|WebApi_Day01\\WebApi_Day01.csproj|c:\\users\\user\\source\\repos\\webapi_day01\\webapi_day01\\migrations\\20250601120704_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD22740F-415C-489B-AD84-B49FE320B0CE}|WebApi_Day01\\WebApi_Day01.csproj|solutionrelative:webapi_day01\\migrations\\20250601120704_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WebApi_Day01\\WebApi_Day01\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApi_Day01\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WebApi_Day01\\WebApi_Day01\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApi_Day01\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-01T11:31:02.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250601122129_insert_data.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WebApi_Day01\\WebApi_Day01\\Migrations\\20250601122129_insert_data.cs",
+              "RelativeDocumentMoniker": "WebApi_Day01\\Migrations\\20250601122129_insert_data.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WebApi_Day01\\WebApi_Day01\\Migrations\\20250601122129_insert_data.cs",
+              "RelativeToolTip": "WebApi_Day01\\Migrations\\20250601122129_insert_data.cs",
+              "ViewState": "AgIAAAwAAACQkxqLGwcxwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T12:21:29.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WebApi_Day01\\WebApi_Day01\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi_Day01\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WebApi_Day01\\WebApi_Day01\\Program.cs",
+              "RelativeToolTip": "WebApi_Day01\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T11:27:00.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WebApi_Day01\\WebApi_Day01\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "WebApi_Day01\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WebApi_Day01\\WebApi_Day01\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "WebApi_Day01\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAUwD0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T12:03:24.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WebApi_Day01\\WebApi_Day01\\Model\\Course.cs",
+              "RelativeDocumentMoniker": "WebApi_Day01\\Model\\Course.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WebApi_Day01\\WebApi_Day01\\Model\\Course.cs",
+              "RelativeToolTip": "WebApi_Day01\\Model\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T11:39:27.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WebApi_Day01\\WebApi_Day01\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi_Day01\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WebApi_Day01\\WebApi_Day01\\appsettings.json",
+              "RelativeToolTip": "WebApi_Day01\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-01T11:53:47.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250601120040_create.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WebApi_Day01\\WebApi_Day01\\Migrations\\20250601120040_create.cs",
+              "RelativeDocumentMoniker": "WebApi_Day01\\Migrations\\20250601120040_create.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WebApi_Day01\\WebApi_Day01\\Migrations\\20250601120040_create.cs",
+              "RelativeToolTip": "WebApi_Day01\\Migrations\\20250601120040_create.cs",
+              "ViewState": "AgIAAAkAAADguW+T/ToswBEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T12:00:40.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITIcontext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WebApi_Day01\\WebApi_Day01\\Model\\ITIcontext.cs",
+              "RelativeDocumentMoniker": "WebApi_Day01\\Model\\ITIcontext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WebApi_Day01\\WebApi_Day01\\Model\\ITIcontext.cs",
+              "RelativeToolTip": "WebApi_Day01\\Model\\ITIcontext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA9wBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T11:46:29.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250601120532_allow_null.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WebApi_Day01\\WebApi_Day01\\Migrations\\20250601120532_allow_null.cs",
+              "RelativeDocumentMoniker": "WebApi_Day01\\Migrations\\20250601120532_allow_null.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WebApi_Day01\\WebApi_Day01\\Migrations\\20250601120532_allow_null.cs",
+              "RelativeToolTip": "WebApi_Day01\\Migrations\\20250601120532_allow_null.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T12:05:33.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250601120704_update.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WebApi_Day01\\WebApi_Day01\\Migrations\\20250601120704_update.cs",
+              "RelativeDocumentMoniker": "WebApi_Day01\\Migrations\\20250601120704_update.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WebApi_Day01\\WebApi_Day01\\Migrations\\20250601120704_update.cs",
+              "RelativeToolTip": "WebApi_Day01\\Migrations\\20250601120704_update.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T12:07:05.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WebApi_Day01.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WebApi_Day01\\WebApi_Day01\\WebApi_Day01.csproj",
+              "RelativeDocumentMoniker": "WebApi_Day01\\WebApi_Day01.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WebApi_Day01\\WebApi_Day01\\WebApi_Day01.csproj",
+              "RelativeToolTip": "WebApi_Day01\\WebApi_Day01.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-01T11:38:41.578Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

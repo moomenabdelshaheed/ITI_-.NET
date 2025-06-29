@@ -1,0 +1,60 @@
+﻿@model InstructordeptcourseViewModel
+@{
+    ViewData["Title"] = "Add New Instructor";
+}
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+
+<div class="container mt-5">
+    <h2 class="mb-4 text-center">Add New Instructor</h2>
+    <form action="/Instructors/Create" method="post" enctype="multipart/form-data" class="border p-4 rounded shadow bg-light mx-auto" style="max-width: 600px;">
+
+        <div class="mb-3">
+            <label for="Name" class="form-label">Name</label>
+            <input type="text" name="Name" id="Name" class="form-control" placeholder="Enter instructor's name" />
+        </div>
+
+        <div class="mb-3">
+            <label for="Imag" class="form-label">Image URL</label>
+            @* <input type="text" name="Imag" id="Imag" class="form-control" placeholder="https://example.com/image.jpg" /> *@
+            <input type="file" name="imageFile" id="imageFile" accept="image/*" class="form-control" />
+
+        </div>
+
+        <div class="mb-3">
+            <label for="Salary" class="form-label">Salary</label>
+            <input type="number" step="0.01" name="Salary" id="Salary" class="form-control" placeholder="Enter salary" />
+        </div>
+
+        <div class="mb-3">
+            <label for="Address" class="form-label">Address</label>
+            <input type="text" name="Address" id="Address" class="form-control" placeholder="Enter address" />
+        </div>
+
+        <div class="mb-3">
+            <label for="DepartmentID" class="form-label">Department</label>
+            <select name="DepartmentID" id="DepartmentID" class="form-select">
+                <option value="">-- Select Department --</option>
+                @foreach (var d in Model.departments.DistinctBy(dep => dep.Id))
+                {
+                    <option value="@d.Id">@d.Name</option>
+                }
+            </select>
+        </div>
+
+        <div class="mb-3">
+            <label for="CourseID" class="form-label">Course</label>
+            <select name="CourseID" id="CourseID" class="form-select">
+                <option value="">-- Select Course --</option>
+                @foreach (var c in Model.courses)
+                {
+                    <option value="@c.Id">@c.Name</option>
+                }
+            </select>
+        </div>
+
+        <div class="text-center">
+            <button type="submit" class="btn btn-primary px-5">Add</button>
+        </div>
+    </form>
+</div>

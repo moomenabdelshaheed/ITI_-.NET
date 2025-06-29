@@ -1,0 +1,19 @@
+﻿@model TraineeandCrsResultViewModel
+@{
+    ViewData["Title"] = "Result";
+}
+
+<h1>Result</h1>
+
+<div class="card" style="width: 18rem;">
+    <div class="card-header">
+        Featured
+    </div>
+    <ul class="list-group list-group-flush">
+        <li class="list-group-item">Trainee : @Model.TraineeName</li>
+        <li class="list-group-item">Course : @Model.CrsName</li>
+        <li class="list-group-item" style="color :@Model.Color;">Degree : @Model.Degree</li>
+        <li class="list-group-item" style="color :@Model.Color;">Status : @Model.Status</li>
+
+    </ul>
+</div>

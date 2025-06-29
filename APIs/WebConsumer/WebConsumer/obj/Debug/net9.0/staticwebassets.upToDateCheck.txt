@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\WebConsumer\WebConsumer\wwwroot\jquery\jquery.js
+C:\Users\User\source\repos\WebConsumer\WebConsumer\wwwroot\jquery\jquery.slim.min.map
+C:\Users\User\source\repos\WebConsumer\WebConsumer\wwwroot\jquery\jquery.min.map
+C:\Users\User\source\repos\WebConsumer\WebConsumer\wwwroot\homepage.html
+C:\Users\User\source\repos\WebConsumer\WebConsumer\wwwroot\jquery\jquery.slim.js
+C:\Users\User\source\repos\WebConsumer\WebConsumer\wwwroot\jquery\jquery.slim.min.js
+C:\Users\User\source\repos\WebConsumer\WebConsumer\wwwroot\jquery\jquery.min.js
+wwwroot\homepage.html
+wwwroot\jquery\jquery.js
+wwwroot\jquery\jquery.min.js
+wwwroot\jquery\jquery.min.map
+wwwroot\jquery\jquery.slim.js
+wwwroot\jquery\jquery.slim.min.js
+wwwroot\jquery\jquery.slim.min.map

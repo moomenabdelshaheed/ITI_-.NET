@@ -1,0 +1,21 @@
+﻿@model Instructor
+
+
+<h1>details</h1>
+@* class="text-light" *@
+<div class="card" style="width: 18rem;">
+    <img src="/Images/@Model.Imag" class="card-img-top" alt="...">
+    <div class="card-body">
+        <h5 class="card-title text-light">Name : @Model.Name</h5>
+    </div>
+    <ul class="list-group list-group-flush">
+        <li class="list-group-item">Salary: @Model.Salary</li>
+        <li class="list-group-item">Address : @Model.Address</li>
+        <li class="list-group-item">Department: @Model.Department.Name</li>
+        <li class="list-group-item">Course: @Model.Course.Name</li>
+    </ul>
+    <div class="card-body">
+        <a href="/instructors" class="card-link">Go Back</a>
+        
+    </div>
+</div>

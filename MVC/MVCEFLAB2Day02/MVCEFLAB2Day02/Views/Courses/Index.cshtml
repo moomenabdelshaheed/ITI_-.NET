@@ -1,0 +1,62 @@
+﻿@model List<Course>
+@{
+    ViewData["Title"] = "Index";
+    <h1>Welcome From Moomentheone 😁</h1><br />
+
+
+    <form asp-action="Index" method="get">
+        <input type="text" name="searchText" class="form-control" placeholder="Search by name..." /><br />
+        <button type="submit" class="btn btn-primary">Search</button>
+    </form><br />
+
+
+    <a href="/courses/New" class="btn btn-danger">Add</a>
+
+    <h1>Index</h1>
+
+    <table class="table table-sm">
+        <thead>
+            <tr>
+                <th scope="col" class="text-light">ID</th>
+                <th scope="col" class="text-light">Name</th>
+                <th scope="col" class="text-light">Degree</th>
+                <th scope="col" class="text-light">MinDegree</th>
+                <th scope="col" class="text-light">Hours</th>
+                <th scope="col" class="text-light">Department</th>
+
+
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Course course in Model)
+            {
+                <tr>
+                    <th scope="row" class="text-light">@course.Id</th>
+                    <td class="text-light">@course.Name</td>
+                    <td class="text-light">@course.Degree</td>
+                    <td class="text-light">@course.MinDegree</td>
+                    <td class="text-light">@course.Hours</td>
+                    <td class="text-light">@course.Department.Name</td>
+                    <td>
+                        <a href="/courses/Result?cid=@course.Id" class="btn btn-info">Info</a>
+                    </td>
+
+
+                </tr>
+            }
+
+        </tbody>
+    </table>
+
+   
+    <br />
+
+    <form asp-action="Index" method="get" onsubmit="return confirm('Are you sure you want to delete this Course')">
+    <h2>Want to Delete Course ?</h2>
+    <input type="text" name="did" id="did" class="form-control" placeholder="Enter The course Id you Want to Delete" /><br />
+    <button type="submit" class="btn btn-primary">Delete</button>
+    </form>
+}
+
+

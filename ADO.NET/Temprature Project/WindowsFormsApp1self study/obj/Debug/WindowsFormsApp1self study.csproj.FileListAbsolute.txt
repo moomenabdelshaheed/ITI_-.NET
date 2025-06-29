@@ -1,0 +1,22 @@
+C:\Users\User\source\repos\WindowsFormsApp1self study\WindowsFormsApp1self study\bin\Debug\WindowsFormsApp1self study.exe.config
+C:\Users\User\source\repos\WindowsFormsApp1self study\WindowsFormsApp1self study\bin\Debug\WindowsFormsApp1self study.exe
+C:\Users\User\source\repos\WindowsFormsApp1self study\WindowsFormsApp1self study\bin\Debug\WindowsFormsApp1self study.pdb
+C:\Users\User\source\repos\WindowsFormsApp1self study\WindowsFormsApp1self study\obj\Debug\WindowsFormsApp1self study.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WindowsFormsApp1self study\WindowsFormsApp1self study\obj\Debug\WindowsFormsApp1self_study.Properties.Resources.resources
+C:\Users\User\source\repos\WindowsFormsApp1self study\WindowsFormsApp1self study\obj\Debug\WindowsFormsApp1self study.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WindowsFormsApp1self study\WindowsFormsApp1self study\obj\Debug\WindowsFormsApp1self study.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WindowsFormsApp1self study\WindowsFormsApp1self study\obj\Debug\WindowsFormsApp1self study.exe
+C:\Users\User\source\repos\WindowsFormsApp1self study\WindowsFormsApp1self study\obj\Debug\WindowsFormsApp1self study.pdb
+C:\Users\User\source\repos\WindowsFormsApp1self study\WindowsFormsApp1self study\obj\Debug\WindowsFormsApp1self_study.Form1.resources
+C:\Users\User\source\repos\WindowsFormsApp1self study\WindowsFormsApp1self study\obj\Debug\WindowsFormsApp1self_study.Notepad.resources
+D:\New folder (4)\ITI_-.NET\ADO.NET\Temprature Project\WindowsFormsApp1self study\bin\Debug\WindowsFormsApp1self study.exe.config
+D:\New folder (4)\ITI_-.NET\ADO.NET\Temprature Project\WindowsFormsApp1self study\bin\Debug\WindowsFormsApp1self study.exe
+D:\New folder (4)\ITI_-.NET\ADO.NET\Temprature Project\WindowsFormsApp1self study\bin\Debug\WindowsFormsApp1self study.pdb
+D:\New folder (4)\ITI_-.NET\ADO.NET\Temprature Project\WindowsFormsApp1self study\obj\Debug\WindowsFormsApp1self study.csproj.AssemblyReference.cache
+D:\New folder (4)\ITI_-.NET\ADO.NET\Temprature Project\WindowsFormsApp1self study\obj\Debug\WindowsFormsApp1self_study.Form1.resources
+D:\New folder (4)\ITI_-.NET\ADO.NET\Temprature Project\WindowsFormsApp1self study\obj\Debug\WindowsFormsApp1self_study.Notepad.resources
+D:\New folder (4)\ITI_-.NET\ADO.NET\Temprature Project\WindowsFormsApp1self study\obj\Debug\WindowsFormsApp1self_study.Properties.Resources.resources
+D:\New folder (4)\ITI_-.NET\ADO.NET\Temprature Project\WindowsFormsApp1self study\obj\Debug\WindowsFormsApp1self study.csproj.GenerateResource.cache
+D:\New folder (4)\ITI_-.NET\ADO.NET\Temprature Project\WindowsFormsApp1self study\obj\Debug\WindowsFormsApp1self study.csproj.CoreCompileInputs.cache
+D:\New folder (4)\ITI_-.NET\ADO.NET\Temprature Project\WindowsFormsApp1self study\obj\Debug\WindowsFormsApp1self study.exe
+D:\New folder (4)\ITI_-.NET\ADO.NET\Temprature Project\WindowsFormsApp1self study\obj\Debug\WindowsFormsApp1self study.pdb

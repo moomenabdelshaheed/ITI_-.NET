@@ -1,0 +1,22 @@
+div input{
+    width: 200px; 
+    height: 10px; 
+    padding: 10px; 
+    font-size: 16px; 
+    border: 2px solid #4CAF50; 
+    border-radius: 8px; 
+    background-color: #f9f9f9;
+
+}
+
+div textarea{
+    width: 900px; 
+    height: 100px; 
+    border: 2px solid #133715; 
+    margin: 50px;
+    background-color: #c5b9b971;
+}
+
+
+
+

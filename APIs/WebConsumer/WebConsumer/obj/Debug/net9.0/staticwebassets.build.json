@@ -1,0 +1,2402 @@
+{
+  "Version": 1,
+  "Hash": "JTz1D5PPJIw6QUqz9UMWumXGbN57GvcRsKvQz9r58BM=",
+  "Source": "WebConsumer",
+  "BasePath": "_content/WebConsumer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebConsumer\\wwwroot",
+      "Source": "WebConsumer",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\",
+      "BasePath": "_content/WebConsumer",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\obj\\Debug\\net9.0\\compressed\\52ull81psz-0i3buxo5is.gz",
+      "SourceId": "WebConsumer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/WebConsumer",
+      "RelativePath": "jquery/jquery#[.{fingerprint=0i3buxo5is}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\jquery\\jquery.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "v75tr20pas",
+      "Integrity": "q0KM+9yOLRYeTH/iGBE/HUYO08aXn2DmZ+yyIU6/kho=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\jquery\\jquery.js"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\obj\\Debug\\net9.0\\compressed\\6unyy5h8u1-87fc7y1x7t.gz",
+      "SourceId": "WebConsumer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/WebConsumer",
+      "RelativePath": "jquery/jquery.slim.min#[.{fingerprint=87fc7y1x7t}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\jquery\\jquery.slim.min.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "uiwq7himce",
+      "Integrity": "2u2XFgZyC96dP/elrO5ny/maD/llVl8JsX3pBm2SWT0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\obj\\Debug\\net9.0\\compressed\\8q3jiw47la-ttgo8qnofa.gz",
+      "SourceId": "WebConsumer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/WebConsumer",
+      "RelativePath": "jquery/jquery.min#[.{fingerprint=ttgo8qnofa}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\jquery\\jquery.min.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "sdwt97mj8r",
+      "Integrity": "0HH7P7Mtrs+2sBMSFXD8DJw0oV4iDB5wkeRFpSi113A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\jquery\\jquery.min.map"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\obj\\Debug\\net9.0\\compressed\\g6zeipoz3r-ufi8sg8ij3.gz",
+      "SourceId": "WebConsumer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/WebConsumer",
+      "RelativePath": "homepage#[.{fingerprint=ufi8sg8ij3}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\homepage.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "aytbsrrzv2",
+      "Integrity": "njtqN4+L2OOLteyrimMCEBKzXZXlE942x5oxwhCHUi4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\homepage.html"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\obj\\Debug\\net9.0\\compressed\\pvo75z0x1c-2z0ns9nrw6.gz",
+      "SourceId": "WebConsumer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/WebConsumer",
+      "RelativePath": "jquery/jquery.slim#[.{fingerprint=2z0ns9nrw6}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\jquery\\jquery.slim.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "yow8h3bl0n",
+      "Integrity": "fhspAbITSYOUuRd6s5oYdr7V1DC3ibPbW5Siv7MGps8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\jquery\\jquery.slim.js"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\obj\\Debug\\net9.0\\compressed\\rn05d6ieyd-muycvpuwrr.gz",
+      "SourceId": "WebConsumer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/WebConsumer",
+      "RelativePath": "jquery/jquery.slim.min#[.{fingerprint=muycvpuwrr}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\jquery\\jquery.slim.min.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "gm2ug2dj20",
+      "Integrity": "OK9mKWiOoFmOZ+xYop9MRSKE6LHMu/9ZTCPvluUOpcA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\obj\\Debug\\net9.0\\compressed\\rwuabhspnv-o1o13a6vjx.gz",
+      "SourceId": "WebConsumer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/WebConsumer",
+      "RelativePath": "jquery/jquery.min#[.{fingerprint=o1o13a6vjx}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\jquery\\jquery.min.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "9lbv9l0z68",
+      "Integrity": "bSlV8nIWgnEsf0ljiCRK0xw364UXDcqZZilq1CQ+At0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\jquery\\jquery.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\homepage.html",
+      "SourceId": "WebConsumer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\",
+      "BasePath": "_content/WebConsumer",
+      "RelativePath": "homepage#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ufi8sg8ij3",
+      "Integrity": "WutVT4KZhbIe+qbqDQ5a0gp7iHbdHTjJ+2wj7W6DvWs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\homepage.html"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\jquery\\jquery.js",
+      "SourceId": "WebConsumer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\",
+      "BasePath": "_content/WebConsumer",
+      "RelativePath": "jquery/jquery#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0i3buxo5is",
+      "Integrity": "eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\jquery\\jquery.js"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\jquery\\jquery.min.js",
+      "SourceId": "WebConsumer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\",
+      "BasePath": "_content/WebConsumer",
+      "RelativePath": "jquery/jquery.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o1o13a6vjx",
+      "Integrity": "/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\jquery\\jquery.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\jquery\\jquery.min.map",
+      "SourceId": "WebConsumer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\",
+      "BasePath": "_content/WebConsumer",
+      "RelativePath": "jquery/jquery.min#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ttgo8qnofa",
+      "Integrity": "z3TVHGLSmRiZiRMOu0I7MEU1Mv3ImI2OK3GxuRZagLg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\jquery\\jquery.min.map"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\jquery\\jquery.slim.js",
+      "SourceId": "WebConsumer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\",
+      "BasePath": "_content/WebConsumer",
+      "RelativePath": "jquery/jquery.slim#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2z0ns9nrw6",
+      "Integrity": "UgvvN8vBkgO0luPSUl2s8TIlOSYRoGFAX4jlCIm9Adc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\jquery\\jquery.slim.js"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\jquery\\jquery.slim.min.js",
+      "SourceId": "WebConsumer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\",
+      "BasePath": "_content/WebConsumer",
+      "RelativePath": "jquery/jquery.slim.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "muycvpuwrr",
+      "Integrity": "kmHvs0B+OpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\jquery\\jquery.slim.min.map",
+      "SourceId": "WebConsumer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\",
+      "BasePath": "_content/WebConsumer",
+      "RelativePath": "jquery/jquery.slim.min#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "87fc7y1x7t",
+      "Integrity": "9FYmcgtx8qZo1OPPiPt/BJ/sz0EI8SRNUYsFLZDEEt4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\jquery\\jquery.slim.min.map"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "homepage.html",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\obj\\Debug\\net9.0\\compressed\\g6zeipoz3r-ufi8sg8ij3.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003496503497"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "285"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"njtqN4+L2OOLteyrimMCEBKzXZXlE942x5oxwhCHUi4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 08:36:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"WutVT4KZhbIe+qbqDQ5a0gp7iHbdHTjJ+2wj7W6DvWs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WutVT4KZhbIe+qbqDQ5a0gp7iHbdHTjJ+2wj7W6DvWs="
+        }
+      ]
+    },
+    {
+      "Route": "homepage.html",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\homepage.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "536"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WutVT4KZhbIe+qbqDQ5a0gp7iHbdHTjJ+2wj7W6DvWs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 08:36:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WutVT4KZhbIe+qbqDQ5a0gp7iHbdHTjJ+2wj7W6DvWs="
+        }
+      ]
+    },
+    {
+      "Route": "homepage.html.gz",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\obj\\Debug\\net9.0\\compressed\\g6zeipoz3r-ufi8sg8ij3.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "285"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"njtqN4+L2OOLteyrimMCEBKzXZXlE942x5oxwhCHUi4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 08:36:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-njtqN4+L2OOLteyrimMCEBKzXZXlE942x5oxwhCHUi4="
+        }
+      ]
+    },
+    {
+      "Route": "homepage.ufi8sg8ij3.html",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\obj\\Debug\\net9.0\\compressed\\g6zeipoz3r-ufi8sg8ij3.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003496503497"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "285"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"njtqN4+L2OOLteyrimMCEBKzXZXlE942x5oxwhCHUi4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 08:36:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"WutVT4KZhbIe+qbqDQ5a0gp7iHbdHTjJ+2wj7W6DvWs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ufi8sg8ij3"
+        },
+        {
+          "Name": "label",
+          "Value": "homepage.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WutVT4KZhbIe+qbqDQ5a0gp7iHbdHTjJ+2wj7W6DvWs="
+        }
+      ]
+    },
+    {
+      "Route": "homepage.ufi8sg8ij3.html",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\homepage.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "536"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WutVT4KZhbIe+qbqDQ5a0gp7iHbdHTjJ+2wj7W6DvWs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 08:36:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ufi8sg8ij3"
+        },
+        {
+          "Name": "label",
+          "Value": "homepage.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WutVT4KZhbIe+qbqDQ5a0gp7iHbdHTjJ+2wj7W6DvWs="
+        }
+      ]
+    },
+    {
+      "Route": "homepage.ufi8sg8ij3.html.gz",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\obj\\Debug\\net9.0\\compressed\\g6zeipoz3r-ufi8sg8ij3.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "285"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"njtqN4+L2OOLteyrimMCEBKzXZXlE942x5oxwhCHUi4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 08:36:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ufi8sg8ij3"
+        },
+        {
+          "Name": "label",
+          "Value": "homepage.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-njtqN4+L2OOLteyrimMCEBKzXZXlE942x5oxwhCHUi4="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery.0i3buxo5is.js",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\obj\\Debug\\net9.0\\compressed\\52ull81psz-0i3buxo5is.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000011896831"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "84055"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q0KM+9yOLRYeTH/iGBE/HUYO08aXn2DmZ+yyIU6/kho=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 08:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0i3buxo5is"
+        },
+        {
+          "Name": "label",
+          "Value": "jquery/jquery.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery.0i3buxo5is.js",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\jquery\\jquery.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "285314"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 08:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0i3buxo5is"
+        },
+        {
+          "Name": "label",
+          "Value": "jquery/jquery.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery.0i3buxo5is.js.gz",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\obj\\Debug\\net9.0\\compressed\\52ull81psz-0i3buxo5is.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "84055"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q0KM+9yOLRYeTH/iGBE/HUYO08aXn2DmZ+yyIU6/kho=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 08:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0i3buxo5is"
+        },
+        {
+          "Name": "label",
+          "Value": "jquery/jquery.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-q0KM+9yOLRYeTH/iGBE/HUYO08aXn2DmZ+yyIU6/kho="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery.js",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\obj\\Debug\\net9.0\\compressed\\52ull81psz-0i3buxo5is.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000011896831"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "84055"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q0KM+9yOLRYeTH/iGBE/HUYO08aXn2DmZ+yyIU6/kho=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 08:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery.js",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\jquery\\jquery.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "285314"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 08:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery.js.gz",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\obj\\Debug\\net9.0\\compressed\\52ull81psz-0i3buxo5is.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "84055"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q0KM+9yOLRYeTH/iGBE/HUYO08aXn2DmZ+yyIU6/kho=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 08:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-q0KM+9yOLRYeTH/iGBE/HUYO08aXn2DmZ+yyIU6/kho="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery.min.js",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\obj\\Debug\\net9.0\\compressed\\rwuabhspnv-o1o13a6vjx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000032879595"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30413"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bSlV8nIWgnEsf0ljiCRK0xw364UXDcqZZilq1CQ+At0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 08:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery.min.js",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\jquery\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "87533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 08:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery.min.js.gz",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\obj\\Debug\\net9.0\\compressed\\rwuabhspnv-o1o13a6vjx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30413"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bSlV8nIWgnEsf0ljiCRK0xw364UXDcqZZilq1CQ+At0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 08:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bSlV8nIWgnEsf0ljiCRK0xw364UXDcqZZilq1CQ+At0="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery.min.map",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\obj\\Debug\\net9.0\\compressed\\8q3jiw47la-ttgo8qnofa.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000018542555"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53929"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0HH7P7Mtrs+2sBMSFXD8DJw0oV4iDB5wkeRFpSi113A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 08:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"z3TVHGLSmRiZiRMOu0I7MEU1Mv3ImI2OK3GxuRZagLg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z3TVHGLSmRiZiRMOu0I7MEU1Mv3ImI2OK3GxuRZagLg="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery.min.map",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\jquery\\jquery.min.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "134755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z3TVHGLSmRiZiRMOu0I7MEU1Mv3ImI2OK3GxuRZagLg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 08:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z3TVHGLSmRiZiRMOu0I7MEU1Mv3ImI2OK3GxuRZagLg="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery.min.map.gz",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\obj\\Debug\\net9.0\\compressed\\8q3jiw47la-ttgo8qnofa.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53929"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0HH7P7Mtrs+2sBMSFXD8DJw0oV4iDB5wkeRFpSi113A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 08:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0HH7P7Mtrs+2sBMSFXD8DJw0oV4iDB5wkeRFpSi113A="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery.min.o1o13a6vjx.js",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\obj\\Debug\\net9.0\\compressed\\rwuabhspnv-o1o13a6vjx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000032879595"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30413"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bSlV8nIWgnEsf0ljiCRK0xw364UXDcqZZilq1CQ+At0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 08:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o1o13a6vjx"
+        },
+        {
+          "Name": "label",
+          "Value": "jquery/jquery.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery.min.o1o13a6vjx.js",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\jquery\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "87533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 08:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o1o13a6vjx"
+        },
+        {
+          "Name": "label",
+          "Value": "jquery/jquery.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery.min.o1o13a6vjx.js.gz",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\obj\\Debug\\net9.0\\compressed\\rwuabhspnv-o1o13a6vjx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30413"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bSlV8nIWgnEsf0ljiCRK0xw364UXDcqZZilq1CQ+At0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 08:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o1o13a6vjx"
+        },
+        {
+          "Name": "label",
+          "Value": "jquery/jquery.min.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bSlV8nIWgnEsf0ljiCRK0xw364UXDcqZZilq1CQ+At0="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery.min.ttgo8qnofa.map",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\obj\\Debug\\net9.0\\compressed\\8q3jiw47la-ttgo8qnofa.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000018542555"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53929"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0HH7P7Mtrs+2sBMSFXD8DJw0oV4iDB5wkeRFpSi113A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 08:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"z3TVHGLSmRiZiRMOu0I7MEU1Mv3ImI2OK3GxuRZagLg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ttgo8qnofa"
+        },
+        {
+          "Name": "label",
+          "Value": "jquery/jquery.min.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z3TVHGLSmRiZiRMOu0I7MEU1Mv3ImI2OK3GxuRZagLg="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery.min.ttgo8qnofa.map",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\jquery\\jquery.min.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "134755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z3TVHGLSmRiZiRMOu0I7MEU1Mv3ImI2OK3GxuRZagLg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 08:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ttgo8qnofa"
+        },
+        {
+          "Name": "label",
+          "Value": "jquery/jquery.min.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z3TVHGLSmRiZiRMOu0I7MEU1Mv3ImI2OK3GxuRZagLg="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery.min.ttgo8qnofa.map.gz",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\obj\\Debug\\net9.0\\compressed\\8q3jiw47la-ttgo8qnofa.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53929"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0HH7P7Mtrs+2sBMSFXD8DJw0oV4iDB5wkeRFpSi113A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 08:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ttgo8qnofa"
+        },
+        {
+          "Name": "label",
+          "Value": "jquery/jquery.min.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0HH7P7Mtrs+2sBMSFXD8DJw0oV4iDB5wkeRFpSi113A="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery.slim.2z0ns9nrw6.js",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\obj\\Debug\\net9.0\\compressed\\pvo75z0x1c-2z0ns9nrw6.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000014637859"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68315"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fhspAbITSYOUuRd6s5oYdr7V1DC3ibPbW5Siv7MGps8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 08:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"UgvvN8vBkgO0luPSUl2s8TIlOSYRoGFAX4jlCIm9Adc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2z0ns9nrw6"
+        },
+        {
+          "Name": "label",
+          "Value": "jquery/jquery.slim.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UgvvN8vBkgO0luPSUl2s8TIlOSYRoGFAX4jlCIm9Adc="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery.slim.2z0ns9nrw6.js",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\jquery\\jquery.slim.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "232015"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UgvvN8vBkgO0luPSUl2s8TIlOSYRoGFAX4jlCIm9Adc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 08:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2z0ns9nrw6"
+        },
+        {
+          "Name": "label",
+          "Value": "jquery/jquery.slim.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UgvvN8vBkgO0luPSUl2s8TIlOSYRoGFAX4jlCIm9Adc="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery.slim.2z0ns9nrw6.js.gz",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\obj\\Debug\\net9.0\\compressed\\pvo75z0x1c-2z0ns9nrw6.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68315"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fhspAbITSYOUuRd6s5oYdr7V1DC3ibPbW5Siv7MGps8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 08:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2z0ns9nrw6"
+        },
+        {
+          "Name": "label",
+          "Value": "jquery/jquery.slim.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fhspAbITSYOUuRd6s5oYdr7V1DC3ibPbW5Siv7MGps8="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery.slim.js",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\obj\\Debug\\net9.0\\compressed\\pvo75z0x1c-2z0ns9nrw6.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000014637859"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68315"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fhspAbITSYOUuRd6s5oYdr7V1DC3ibPbW5Siv7MGps8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 08:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"UgvvN8vBkgO0luPSUl2s8TIlOSYRoGFAX4jlCIm9Adc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UgvvN8vBkgO0luPSUl2s8TIlOSYRoGFAX4jlCIm9Adc="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery.slim.js",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\jquery\\jquery.slim.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "232015"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UgvvN8vBkgO0luPSUl2s8TIlOSYRoGFAX4jlCIm9Adc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 08:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UgvvN8vBkgO0luPSUl2s8TIlOSYRoGFAX4jlCIm9Adc="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery.slim.js.gz",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\obj\\Debug\\net9.0\\compressed\\pvo75z0x1c-2z0ns9nrw6.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68315"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fhspAbITSYOUuRd6s5oYdr7V1DC3ibPbW5Siv7MGps8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 08:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fhspAbITSYOUuRd6s5oYdr7V1DC3ibPbW5Siv7MGps8="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery.slim.min.87fc7y1x7t.map",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\obj\\Debug\\net9.0\\compressed\\6unyy5h8u1-87fc7y1x7t.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000023399476"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42735"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2u2XFgZyC96dP/elrO5ny/maD/llVl8JsX3pBm2SWT0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 08:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9FYmcgtx8qZo1OPPiPt/BJ/sz0EI8SRNUYsFLZDEEt4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "87fc7y1x7t"
+        },
+        {
+          "Name": "label",
+          "Value": "jquery/jquery.slim.min.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9FYmcgtx8qZo1OPPiPt/BJ/sz0EI8SRNUYsFLZDEEt4="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery.slim.min.87fc7y1x7t.map",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\jquery\\jquery.slim.min.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "107143"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9FYmcgtx8qZo1OPPiPt/BJ/sz0EI8SRNUYsFLZDEEt4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 08:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "87fc7y1x7t"
+        },
+        {
+          "Name": "label",
+          "Value": "jquery/jquery.slim.min.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9FYmcgtx8qZo1OPPiPt/BJ/sz0EI8SRNUYsFLZDEEt4="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery.slim.min.87fc7y1x7t.map.gz",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\obj\\Debug\\net9.0\\compressed\\6unyy5h8u1-87fc7y1x7t.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42735"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2u2XFgZyC96dP/elrO5ny/maD/llVl8JsX3pBm2SWT0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 08:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "87fc7y1x7t"
+        },
+        {
+          "Name": "label",
+          "Value": "jquery/jquery.slim.min.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2u2XFgZyC96dP/elrO5ny/maD/llVl8JsX3pBm2SWT0="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery.slim.min.js",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\obj\\Debug\\net9.0\\compressed\\rn05d6ieyd-muycvpuwrr.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041511000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24089"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OK9mKWiOoFmOZ+xYop9MRSKE6LHMu/9ZTCPvluUOpcA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 08:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"kmHvs0B+OpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kmHvs0B+OpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery.slim.min.js",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\jquery\\jquery.slim.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kmHvs0B+OpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 08:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kmHvs0B+OpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery.slim.min.js.gz",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\obj\\Debug\\net9.0\\compressed\\rn05d6ieyd-muycvpuwrr.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24089"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OK9mKWiOoFmOZ+xYop9MRSKE6LHMu/9ZTCPvluUOpcA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 08:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OK9mKWiOoFmOZ+xYop9MRSKE6LHMu/9ZTCPvluUOpcA="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery.slim.min.map",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\obj\\Debug\\net9.0\\compressed\\6unyy5h8u1-87fc7y1x7t.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000023399476"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42735"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2u2XFgZyC96dP/elrO5ny/maD/llVl8JsX3pBm2SWT0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 08:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9FYmcgtx8qZo1OPPiPt/BJ/sz0EI8SRNUYsFLZDEEt4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9FYmcgtx8qZo1OPPiPt/BJ/sz0EI8SRNUYsFLZDEEt4="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery.slim.min.map",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\jquery\\jquery.slim.min.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "107143"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9FYmcgtx8qZo1OPPiPt/BJ/sz0EI8SRNUYsFLZDEEt4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 08:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9FYmcgtx8qZo1OPPiPt/BJ/sz0EI8SRNUYsFLZDEEt4="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery.slim.min.map.gz",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\obj\\Debug\\net9.0\\compressed\\6unyy5h8u1-87fc7y1x7t.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42735"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2u2XFgZyC96dP/elrO5ny/maD/llVl8JsX3pBm2SWT0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 08:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2u2XFgZyC96dP/elrO5ny/maD/llVl8JsX3pBm2SWT0="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery.slim.min.muycvpuwrr.js",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\obj\\Debug\\net9.0\\compressed\\rn05d6ieyd-muycvpuwrr.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041511000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24089"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OK9mKWiOoFmOZ+xYop9MRSKE6LHMu/9ZTCPvluUOpcA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 08:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"kmHvs0B+OpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "muycvpuwrr"
+        },
+        {
+          "Name": "label",
+          "Value": "jquery/jquery.slim.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kmHvs0B+OpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery.slim.min.muycvpuwrr.js",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\wwwroot\\jquery\\jquery.slim.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kmHvs0B+OpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 08:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "muycvpuwrr"
+        },
+        {
+          "Name": "label",
+          "Value": "jquery/jquery.slim.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kmHvs0B+OpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery.slim.min.muycvpuwrr.js.gz",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\WebConsumer\\WebConsumer\\obj\\Debug\\net9.0\\compressed\\rn05d6ieyd-muycvpuwrr.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24089"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OK9mKWiOoFmOZ+xYop9MRSKE6LHMu/9ZTCPvluUOpcA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 08:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "muycvpuwrr"
+        },
+        {
+          "Name": "label",
+          "Value": "jquery/jquery.slim.min.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OK9mKWiOoFmOZ+xYop9MRSKE6LHMu/9ZTCPvluUOpcA="
+        }
+      ]
+    }
+  ]
+}

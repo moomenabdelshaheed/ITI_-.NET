@@ -1,0 +1,34 @@
+﻿@model List<TraineeandCrsResultViewModel>
+@{
+    ViewData["Title"] = "Result";
+    Layout = "_MyLayout";
+}
+
+<h1>Result</h1>
+
+<table class="table">
+    <thead class="thead-dark">
+        <tr>
+            <th scope="col" class="text-light">Traineee</th>
+            <th scope="col" class="text-light">CourseName</th>
+            <th scope="col" class="text-light">Degree</th>
+            <th scope="col" class="text-light">Statues</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var course in Model )
+        {
+        <tr >
+                <th scope="row" class="text-light">@course.TraineeName</th>
+                <td class="text-light">@course.CrsName</td>
+                <td class="text-@course.Color">@course.Degree</td>
+                <td class="text-@course.Color">@course.Status</td>
+          
+        </tr>
+
+        }
+        
+       
+    </tbody>
+</table>
+<a href="/Courses/Index" class="btn btn-primary">Back To Courses</a>
